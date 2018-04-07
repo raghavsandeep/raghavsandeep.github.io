@@ -1,0 +1,189 @@
+.back{
+	background-color:black;
+	background-image:url("1.jpg");
+	 background-repeat:no-repeat;
+	 background-position:center;
+	 background-size:cover;
+	 color:white;
+
+	 height:500px;
+}
+.spacetop{
+	margin-top:200px;
+}
+.spacetop2{
+	margin-top:150px;
+}
+
+.fed{
+	
+	font-size:45px;
+	font-family:verdana header;
+}
+
+.bottomtag{
+	font-size:14px;
+}
+.midcolor{
+	background-color:#313940e0;
+	padding:15px;
+}
+.spaceme{
+	padding:1px;
+	font-size:40px;
+	font-family:times;
+	color:gray;
+}
+.heading{
+	font-size:40px;
+	font-family:new times roman heading;
+	margin-top:15px;
+	font-style:italic;
+	
+}
+.about{
+	padding:53px;
+	border:2px solid  grey;
+	border-radius:0px 26px 0px 26px;
+}
+.aboutme{
+
+	font-family:georgia;
+	font-size:18px;
+	
+}
+.skillset{
+	margin-top:20px;
+	background-color:black;
+	background-image:url("skill.jpg");
+	 background-repeat:none;
+	 background-position:center;
+	 background-size:cover;
+	 color:black;
+	 opacity:0.8;
+	 
+	 height:50%;
+}
+.skillfont{
+	margin-top:20px;
+	font-size:16px;
+	color:black !important;
+	
+}
+.myfooter{
+	background-color:#000000ba !important;
+}
+.address{
+	font-family:verdana;
+}
+.wb{
+	background-color:black;
+	background-image:url("4.jpeg");
+	 background-repeat:none;
+	 background-position:center;
+	 background-size:cover;
+	 color:white;
+
+	 height:75%;
+}
+.find{
+	font-family:verdana;
+	font-size:20px;
+	color:white;
+	padding:10px;
+	padding-top:20px;
+	
+}
+.maps{
+	height:220px;
+	width:400px;
+}
+.clear{
+	clear:both;
+}
+.copyright{
+	background:black;
+	color:#f6f6f6;
+}
+
+@media (max-width: 767px) {
+	.back{
+	background-color:black;
+	background-image:url("1.jpg");
+	 background-repeat:no-repeat;
+	 background-position:center;
+	 background-size:cover;
+	 color:white;
+
+	 height:530px;
+}
+  .spacetop{
+	margin-top:150px;
+}
+.spacetop2{
+	margin-top:60px;
+}
+
+.fed{
+	
+	font-size:25px;
+	font-family:verdana header;
+}
+.midcolor{
+	background-color:#5a6d7d;
+	padding:0px;
+}
+	.bottomtag{
+	font-size:10px !important;
+}
+.spaceme{
+	padding:10px;
+	font-size:20px;
+	font-family:Comic Sans MS;
+	color:gray;
+}
+.skillfont{
+	margin-top:40px;
+	font-size:16px;
+	color:black !important;
+	
+}
+.skillset{
+	margin-top:20px;
+	background-color:black;
+	background-image:url("skill.jpg");
+	 background-repeat:none;
+	 background-position:center;
+	 background-size:cover;
+	 color:black;
+	 opacity:0.8;
+	 
+	 height:100%;
+}
+.service{
+	margin-top:10px;
+}
+.aboutme{
+	
+	font-family:georgia;
+	font-size:18px;
+	margin-top:40px;
+	
+}
+.find{
+	font-family:verdana;
+	font-size:13px;
+	color:white;
+	padding:1px;
+	padding-top:10px;
+	
+}
+.maps{
+	height:250px;
+	width:250px;
+}
+.clear{
+	clear:both;
+}
+
+}
